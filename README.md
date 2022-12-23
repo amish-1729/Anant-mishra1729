@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20friend!%20I'm%20Anant&fontAlign=35&fontAlignY=31&color=0:00c7ad,70:6e97fd,100:5d52ac&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=70" alt="Header" width = "100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20friend!%20I'm%20Anant&fontAlign=35&fontAlignY=31&color=0:9c5cff,20:7667ff,40:6284ff,70:5cddf9,100:8affe4&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=70" alt="Header" width = "100%"/>
 </a>
 
 
@@ -112,7 +112,7 @@
 
  
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,70:6e97fd,100:5d52ac" alt="Header" width = "100%"/>
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:9c5cff,20:7667ff,40:6284ff,70:5cddf9,100:8affe4" alt="Header" width = "100%"/>
 </a>
 <p align = "center"><b>I've pinned few of my projects here, hope you ⭐ and 🍴 them :)</b></p>
 <p align = "center"><b>Thank you for your visit!<b></p>

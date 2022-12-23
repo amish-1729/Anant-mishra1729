@@ -77,8 +77,8 @@
       <td>
         <div align  = "center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&langs_count=8&card_width=350">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=%23f6f8fa&langs_count=8&card_width=350"/>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&layout=compact&theme=tokyonight&langs_count=6&hide=jupyter%20notebook,css">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&layout=compact&langs_count=6&hide=jupyter%20notebook,css"/>
         </picture>
       </div>
       </td>

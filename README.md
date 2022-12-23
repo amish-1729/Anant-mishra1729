@@ -57,44 +57,42 @@
 </a>  
   
 
-<h2>Coding journey...</h2>
-<!-- <table>
+<h2>Profile summary</h2>
+<table>
   <tbody>
     <tr>
       <td rowspan="3">
-        <img src="https://metrics.lecoq.io/Anant-mishra1729?template=classic&base.metadata=0&leetcode=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=Jupyter%20Notebook%2C%20CSS&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&leetcode=false&leetcode.user=amishra1729&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FCalcutta&config.padding=4%2C%204" />
+        <img src="https://metrics.lecoq.io/Anant-mishra1729?template=classic&base.header=0&base.metadata=0&isocalendar=1&leetcode=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&leetcode=false&leetcode.user=amishra1729&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FCalcutta&config.padding=0%2C%202" />
       </td>
       <td>
         <picture>
           <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true" />
+          <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&hide_border=true" />
         </picture>
       </td>
     </tr>
     <tr>
       <td>
+        <div align  = "center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true">
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=%23f6f8fa"/>
         </picture>
+      </div>
       </td>
     </tr>
     <td>
-      <div align  = "center">
-        <br></br>
-          <b>🙃 &ensp;Random joke, just to fill this space&ensp;🙂</b>
-        <br></br>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight">
-          <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite&bgColor=%23f6f8fa"/>
+      
+  <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default&hide_border=true" />
         </picture>
-      </div>
     </td>
   </tbody>
-</table> -->
+</table>
   
-<picture>
+<!-- <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" width = "49%"/>
   <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width = "49%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true" width = "49%"/>
@@ -103,7 +101,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true" width = "49%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default" width = "49%"/>
-</picture>
+</picture>-->
 
 <h2> Contribution history (365 days)</h2>
 <div align="center">
@@ -114,7 +112,7 @@
   <div align="center">
     <h3> :book: &nbsp; An excerpt from my diary &nbsp; :book: </h3>
     <i>&nbsp;"Every night in the light of stars, what we see is mostly the obliterated part of this universe..."</i>
-</div>
+</div> 
 
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient#gh-light-mode-only" alt="Footer" width = "100%"/>

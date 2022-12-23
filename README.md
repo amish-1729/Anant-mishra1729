@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20friend!%20I'm%20Anant&fontAlign=35&fontAlignY=31&color=0:00c7ad,70:6e97fd,100:5d52ac&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=70" alt="Header" width = "100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20friend!%20I'm%20Anant&fontAlign=35&fontAlignY=31&color=0:00c7ad,70:6e97fd,100:5d52ac&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=70#gh-dark-mode-only" alt="Header" width = "100%"/>
 </a>
 
 
@@ -17,11 +17,11 @@
 </h2>
 
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-  <img src = "https://media1.giphy.com/media/mChiNhFgpudAQ3ppsL/giphy.gif?cid=ecf05e47oxryfenu2tpbqtckhsaxwhfsawgdq687iff5720q&rid=giphy.gif&ct=g" align="right" width = "34%"/>
+  <img src = "https://media1.giphy.com/media/mChiNhFgpudAQ3ppsL/giphy.gif?cid=ecf05e47oxryfenu2tpbqtckhsaxwhfsawgdq687iff5720q&rid=giphy.gif&ct=g#gh-light-mode-only" width = "34%"/>
 </a>
 
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
-  <img src="https://i.pinimg.com/originals/ad/83/87/ad8387c6e38c4dd2cb3500800141f69e.gif" align="right" width="37%" />
+  <img src="https://i.pinimg.com/originals/ad/83/87/ad8387c6e38c4dd2cb3500800141f69e.gif#gh-dark-mode-only" align="right" width="37%" />
 </a>
 
  <div>

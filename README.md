@@ -115,4 +115,4 @@
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,70:6e97fd,100:5d52ac" alt="Header" width = "100%"/>
 </a>
 <p align = "center"><b>I've pinned few of my projects here, hope you ⭐ and 🍴 them :)</b></p>
-<p align = "center"><b>Thank you for this visit!<b></p>
+<p align = "center"><b>Thank you for your visit!<b></p>

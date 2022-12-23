@@ -17,7 +17,7 @@
 </h2>
 
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-  <img src = "https://media1.giphy.com/media/mChiNhFgpudAQ3ppsL/giphy.gif?cid=ecf05e47oxryfenu2tpbqtckhsaxwhfsawgdq687iff5720q&rid=giphy.gif&ct=g" align="right" />
+  <img src = "https://media1.giphy.com/media/mChiNhFgpudAQ3ppsL/giphy.gif?cid=ecf05e47oxryfenu2tpbqtckhsaxwhfsawgdq687iff5720q&rid=giphy.gif&ct=g" align="right" width = "34%"/>
 </a>
 
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">

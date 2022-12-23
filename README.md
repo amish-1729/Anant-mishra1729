@@ -105,14 +105,14 @@
     <h3> :book: &nbsp; An excerpt from my diary &nbsp; :book: </h3>
     <i>&nbsp;"Every night in the light of stars, what we see is mostly the obliterated part of this universe..."</i>
 </div>
-  
-
 
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient#gh-light-mode-only" alt="Footer" width = "100%"/>
 </a>
 
+ 
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,70:6e97fd,100:5d52ac" alt="Header" width = "100%"/>
 </a>
-  
+<p align = "center"><b>I've pinned few of my projects here, hope you ⭐ and 🍴 them :)</b></p>
+<p align = "center"><b>Thank you for this visit!<b></p>

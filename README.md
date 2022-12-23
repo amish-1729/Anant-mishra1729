@@ -62,7 +62,8 @@
   <tbody>
     <tr>
       <td rowspan="3">
-        <img src="https://metrics.lecoq.io/Anant-mishra1729?template=classic&base.header=0&base.metadata=0&isocalendar=1&leetcode=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&leetcode=false&leetcode.user=amishra1729&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FCalcutta&config.padding=0%2C%202" />
+        <img src="https://metrics.lecoq.io/Anant-mishra1729?template=classic&base.header=0&base.metadata=0&isocalendar=1&achievements=1&leetcode=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&leetcode=false&leetcode.user=amishra1729&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FCalcutta&config.padding=0%2C%200" />
+        <br></br>
       </td>
       <td>
         <picture>
@@ -76,8 +77,8 @@
       <td>
         <div align  = "center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&langs_count=10">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=%23f6f8fa&langs_count=8"/>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&langs_count=8&card_width=350">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=%23f6f8fa&langs_count=8&card_width=350"/>
         </picture>
       </div>
       </td>

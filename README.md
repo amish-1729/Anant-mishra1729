@@ -58,7 +58,7 @@
   
 
 <h2>Coding journey...</h2>
-<table>
+<!-- <table>
   <tbody>
     <tr>
       <td rowspan="3">
@@ -92,13 +92,23 @@
       </div>
     </td>
   </tbody>
-</table>
-
+</table> -->
+  
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" width = "49%"/>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width = "49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true" width = "49%"/>
+</picture>
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true" width = "49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default" width = "49%"/>
+</picture>
 
 <h2> Contribution history (365 days)</h2>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
     <img alt="Contributions Light Mode" src="profile-3d-contrib/profile-season-animate.svg">
   </picture>
   <div align="center">
@@ -114,5 +124,6 @@
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,70:6e97fd,100:5d52ac" alt="Header" width = "100%"/>
 </a>
+<br></br>
 <p align = "center"><b>I've pinned few of my projects here, hope you ⭐ and 🍴 them :)</b></p>
 <p align = "center"><b>Thank you for your visit!<b></p>

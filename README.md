@@ -16,12 +16,12 @@
 <h2> Let's start with an intro... <img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="50" />
 </h2>
 
-<a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-  <img src = "https://media1.giphy.com/media/mChiNhFgpudAQ3ppsL/giphy.gif?cid=ecf05e47oxryfenu2tpbqtckhsaxwhfsawgdq687iff5720q&rid=giphy.gif#gh-light-mode-only" width = "34%" align = "right"/>
-</a>
-
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
   <img src="https://i.pinimg.com/originals/ad/83/87/ad8387c6e38c4dd2cb3500800141f69e.gif#gh-dark-mode-only" align="right" width="37%" />
+</a>
+
+<a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
+  <img src = "https://media1.giphy.com/media/mChiNhFgpudAQ3ppsL/giphy.gif?cid=ecf05e47oxryfenu2tpbqtckhsaxwhfsawgdq687iff5720q&rid=giphy.gif#gh-light-mode-only" width = "37%" align = "right"/>
 </a>
 
  <div>

@@ -10,7 +10,29 @@
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=Anant-mishra1729&style=for-the-badge" height="35" />
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-</div>
+</div>Activity
+790 Commits
+0 Pull requests reviewed
+28 Pull requests opened
+1 Issue opened
+5 issue comments
+Community stats
+Member of 0 organizations
+Following 118 users
+Sponsoring 0 repositories
+Starred 21 repositories
+Watching 26 repositories
+52 Repositories
+Prefers MIT license
+0 Releases
+0 Packages
+298 MB used
+19.8k added, 2.42k removed
+0 Sponsors
+28 Stargazers
+2 Forkers
+26 Watchers
+
 
 
 <h2> Let's start with an intro... <img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="50" />
@@ -59,7 +81,7 @@
   <tbody>
     <tr>
       <td rowspan="3">
-        <img src="https://metrics.lecoq.io/Anant-mishra1729?template=classic&base.header=0&base.metadata=0&leetcode=1&achievements=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&leetcode=false&leetcode.user=amishra1729&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FCalcutta" />
+        <img src="https://metrics.lecoq.io/Anant-mishra1729?template=classic&base.header=0&base.metadata=0&achievements=1&leetcode=1&lines=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&leetcode=false&leetcode.user=amishra1729&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&fortune=false&config.timezone=Asia%2FCalcutta&config.padding=0%2C%204" />
         <br></br>
       </td>
       <td>

@@ -8,8 +8,8 @@
 
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Anant-mishra1729&style=for-the-badge" height="35" />
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src = "https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 </div>
 
 

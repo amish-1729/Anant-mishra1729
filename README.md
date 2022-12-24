@@ -31,7 +31,7 @@
 <div align="left">
   <u>
     <li>:telescope:&ensp;I'm working on <b>Finger Spell</b>, an ISL interpreter. </li>
-    <li>:seedling:&ensp; <b>Reinforcement Learning</b></li>
+    <li>:seedling:&ensp; <b>Deep reinforcement learning</b></li>
     <li>🤝&ensp;Looking to collaborate on any pro-bono data science project.</li>
     <li>:heart:&ensp;I love <b>Stargazing and Chess + <a href="https://github.com/Anant-mishra1729/Village-Linux-rice">Ricing Linux</a>
       </b>

@@ -10,29 +10,7 @@
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=Anant-mishra1729&style=for-the-badge" height="35" />
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-</div>Activity
-790 Commits
-0 Pull requests reviewed
-28 Pull requests opened
-1 Issue opened
-5 issue comments
-Community stats
-Member of 0 organizations
-Following 118 users
-Sponsoring 0 repositories
-Starred 21 repositories
-Watching 26 repositories
-52 Repositories
-Prefers MIT license
-0 Releases
-0 Packages
-298 MB used
-19.8k added, 2.42k removed
-0 Sponsors
-28 Stargazers
-2 Forkers
-26 Watchers
-
+</div>
 
 
 <h2> Let's start with an intro... <img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="50" />

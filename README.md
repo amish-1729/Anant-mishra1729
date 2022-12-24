@@ -1,9 +1,9 @@
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20(こんにちは)!%20I'm%20Anant&fontAlign=45&fontAlignY=31&color=timeGradient&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-light-mode-only" alt="Header" width = "100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20(こんにちは)!%20I'm%20Anant&fontAlign=45&fontAlignY=30&color=timeGradient&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-light-mode-only" alt="Header" width = "100%"/>
 </a>
 
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20(こんにちは)!%20I'm%20Anant&fontAlign=35&fontAlignY=31&color=0:00c7ad,70:6e97fd,100:5d52ac&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=70#gh-dark-mode-only" alt="Header" width = "100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20(こんにちは)!%20I'm%20Anant&fontAlign=45&fontAlignY=30&color=0:00c7ad,70:6e97fd,100:5d52ac&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-dark-mode-only" alt="Header" width = "100%"/>
 </a>
 
 

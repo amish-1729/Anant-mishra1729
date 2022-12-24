@@ -59,7 +59,7 @@
   <tbody>
     <tr>
       <td rowspan="3">
-        <img src="https://metrics.lecoq.io/Anant-mishra1729?template=classic&base.header=0&base.metadata=0&achievements=1&leetcode=1&lines=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&leetcode=false&leetcode.user=amishra1729&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&fortune=false&config.timezone=Asia%2FCalcutta&config.padding=0%2C%204" />
+        <img src="https://metrics.lecoq.io/Anant-mishra1729?template=classic&base.header=0&base.metadata=0&achievements=1&leetcode=1&lines=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&leetcode=false&leetcode.user=amishra1729&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&fortune=false&config.timezone=Asia%2FCalcutta&config.padding=0%2C%204" alt = "Sun tzu once said: 'Please reload if this is not loading 🙂' "/>
         <br></br>
       </td>
       <td>

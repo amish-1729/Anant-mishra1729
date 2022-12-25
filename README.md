@@ -101,7 +101,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default" width = "49%"/>
 </picture>-->
 
-<h2> Contribution history (365 days)</h2>
+<h2> Contribution history</h2>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">

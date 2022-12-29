@@ -6,12 +6,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Anant%20Mishra&fontAlign=40&fontAlignY=30&color=0:00c7ad,70:6e97fd,100:5d52ac&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-dark-mode-only" alt="Header" width = "100%"/>
 </a>
 
+
 <div>
-<a href="https://github.com/settings/appearance#gh-light-mode-only">
-<p> 🌞 &ensp;<b>You're using light mode, this readme also supports dark mode.</b></p>
+<img src = "https://cdn-icons-png.flaticon.com/512/1383/1383262.png" width = "35" align = "left"/> 
+<img src = "https://cdn-icons-png.flaticon.com/512/2721/2721725.png" width = "40" align = "left"/> 
+
+<a href="https://github.com/settings/appearance#gh-light-mode-only" align = "right">
+<p> 🌞 &ensp;<b>Dark mode</b></p>
 </a>
-<a href="https://github.com/settings/appearance#gh-dark-mode-only">
-<p> 🌜 &ensp;<b>You're using dark mode, this readme also supports light mode.</b></p>
+<a href="https://github.com/settings/appearance#gh-dark-mode-only" align = "right">
+<p> 🌜 &ensp;<b>Light mode</b></p>
 </a>
 </div>
 

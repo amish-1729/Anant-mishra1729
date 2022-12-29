@@ -2,15 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Anant%20Mishra&fontAlign=40&fontAlignY=30&color=timeGradient&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-light-mode-only" alt="Header" width = "100%"/>
 </a>
 
-<a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
+<a href="https://github.com/Anant-mishra1729#gh-dark-mode-only" width = "30">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Anant%20Mishra&fontAlign=40&fontAlignY=30&color=0:00c7ad,70:6e97fd,100:5d52ac&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-dark-mode-only" alt="Header" width = "100%"/>
 </a>
 
 
-<!-- <div align="left">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src = "https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-</div> -->
+ <div>
+        <a href="https://github.com/settings/appearance#gh-light-mode-only">
+          <p>🧙&ensp; <b>You're using light mode, this readme supports dark too 🌜</b></p>
+        </a>
+      <a href="https://github.com/settings/appearance#gh-dark-mode-only">
+        <p>🧙&ensp; <b>You're using dark mode, this readme supports light too 🌞</b></p>
+      </a>
+  </div>
 
 
 <h2> Let's start with an intro... <img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="50" />
@@ -20,14 +24,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/ad/83/87/ad8387c6e38c4dd2cb3500800141f69e.gif" align="right" width="37%" >
   <img src="https://media1.giphy.com/media/mChiNhFgpudAQ3ppsL/giphy.gif?cid=ecf05e47oxryfenu2tpbqtckhsaxwhfsawgdq687iff5720q&rid=giphy.gif" width="37%" align = "right"/>
 </picture>
-
- <div>
-        <a href="https://github.com/settings/appearance#gh-light-mode-only">
-          <p>🧙&ensp; <b>You're using light mode, this readme supports dark too :)</b></p>
-        </a>
-      <a href="https://github.com/settings/appearance#gh-dark-mode-only">
-        <p>🧙&ensp; <b>You're using dark mode, this readme supports light too :)</b></p>
-      </a>
 <div align="left">
   <u>
     <li>:telescope:&ensp;I'm working on <b>Finger Spell</b>, an ISL interpreter. </li>

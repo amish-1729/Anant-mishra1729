@@ -16,10 +16,10 @@
   </a>
   
 <a href="https://github.com/settings/appearance#gh-light-mode-only" align = "right">
-<p> 🌞 &ensp;<b>Dark mode</b></p>
+<p> 🌞 &ensp;Dark mode</p>
 </a>
 <a href="https://github.com/settings/appearance#gh-dark-mode-only" align = "right">
-<p> 🌜 &ensp;<b>Light mode</b></p>
+<p> 🌜 &ensp;Light mode</p>
 </a>
 </div>
 

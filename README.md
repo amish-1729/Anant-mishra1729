@@ -8,9 +8,13 @@
 
 
 <div>
-<img src = "https://cdn-icons-png.flaticon.com/512/1383/1383262.png" width = "35" align = "left"/> 
+<a href = "https://www.linkedin.com/in/anant-mishra1729/">
+  <img src = "https://cdn-icons-png.flaticon.com/512/1383/1383262.png" width = "35" align = "left"/> 
+  </a>
+<a href = "https://anant-mishra1729.github.io/portfolio-site/">
 <img src = "https://cdn-icons-png.flaticon.com/512/2721/2721725.png" width = "40" align = "left"/> 
-
+  </a>
+  
 <a href="https://github.com/settings/appearance#gh-light-mode-only" align = "right">
 <p> 🌞 &ensp;<b>Dark mode</b></p>
 </a>

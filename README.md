@@ -7,10 +7,10 @@
 </a>
 
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src = "https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-</div>
+</div> -->
 
 
 <h2> Let's start with an intro... <img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="50" />

@@ -9,23 +9,24 @@
 
 <div>
 <a href = "https://www.linkedin.com/in/anant-mishra1729/">
-  <img src = "https://cdn-icons-png.flaticon.com/512/1383/1383262.png" width = "35" align = "left"/> 
+  <img src = "https://cdn-icons-png.flaticon.com/512/1383/1383262.png" width = "40" align = "left"/> 
   </a>
 <a href = "https://anant-mishra1729.github.io/portfolio-site/">
-<img src = "https://cdn-icons-png.flaticon.com/512/2721/2721725.png" width = "40" align = "left"/> 
+<img src = "https://cdn-icons-png.flaticon.com/512/2721/2721725.png" width = "45" align = "left"/> 
   </a>
   
-<a href="https://github.com/settings/appearance#gh-light-mode-only" align = "right">
-<p> 🌞 &ensp;Dark mode</p>
+
+<a href="https://github.com/settings/appearance#gh-light-mode-only">
+<img src = "https://cdn-icons-png.flaticon.com/512/4647/4647228.png" width = "45" align = "right"/>
 </a>
-<a href="https://github.com/settings/appearance#gh-dark-mode-only" align = "right">
-<p> 🌜 &ensp;Light mode</p>
+<a href="https://github.com/settings/appearance#gh-dark-mode-only">
+<img src = "https://cdn-icons-png.flaticon.com/512/4647/4647037.png" width = "45" align = "right"/>
 </a>
+<br></br>
 </div>
 
-<h2> Let's start with an intro... <img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="50" />
-</h2>
-
+<h1> Let's start with an intro... <img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="60" />
+</h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/ad/83/87/ad8387c6e38c4dd2cb3500800141f69e.gif" align="right" width="35%" >
   <img src="https://media1.giphy.com/media/mChiNhFgpudAQ3ppsL/giphy.gif?cid=ecf05e47oxryfenu2tpbqtckhsaxwhfsawgdq687iff5720q&rid=giphy.gif" width="35%" align = "right"/>

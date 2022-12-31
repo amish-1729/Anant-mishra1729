@@ -1,5 +1,5 @@
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Anant%20Mishra&fontAlign=40&fontAlignY=30&color=0:a657ff,30:75abff,50:5fc0fe,80:7bf2ee,90:71eeef,100:9affe2&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-light-mode-only" alt="Header" width = "100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Anant%20Mishra&fontAlign=40&fontAlignY=30&color=gradient&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-light-mode-only" alt="Header" width = "100%"/>
 </a>
 
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only" width = "30">
@@ -116,10 +116,10 @@
 </div> 
 
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient#gh-light-mode-only" alt="Footer" width = "100%"/>
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient#gh-light-mode-only" alt="Footer" width = "100%"/>
 </a>
 
  
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:a657ff,30:75abff,50:5fc0fe,80:7bf2ee,90:71eeef,100:9affe2" alt="Header" width = "100%"/>
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,70:6e97fd,100:5d52ac" alt="Header" width = "100%"/>
 </a>

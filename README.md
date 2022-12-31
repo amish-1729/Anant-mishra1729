@@ -58,7 +58,7 @@
   
 
 <h2>Profile summary</h2>
-<table>
+<!-- <table>
   <tbody>
     <tr>
       <td rowspan="3">
@@ -91,9 +91,9 @@
         </picture>
     </td>
   </tbody>
-</table>
+</table> -->
   
-<!-- <picture>
+<picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" width = "49%"/>
   <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width = "49%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true" width = "49%"/>
@@ -102,7 +102,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true" width = "49%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default" width = "49%"/>
-</picture>-->
+</picture>
 
 <h2> Contribution history</h2>
 <div align="center">

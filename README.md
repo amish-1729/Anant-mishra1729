@@ -1,5 +1,5 @@
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Anant%20Mishra&fontAlign=40&fontAlignY=30&color=gradient&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-light-mode-only" alt="Header" width = "100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Anant%20Mishra&fontAlign=40&fontAlignY=30&color=timeGradient&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-light-mode-only" alt="Header" width = "100%"/>
 </a>
 
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only" width = "30">
@@ -58,7 +58,7 @@
   
 
 <h2>Profile summary</h2>
-<!-- <table>
+<table>
   <tbody>
     <tr>
       <td rowspan="3">
@@ -91,9 +91,9 @@
         </picture>
     </td>
   </tbody>
-</table> -->
+</table>
   
-<picture>
+<!-- <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" width = "49%"/>
   <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width = "49%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true" width = "49%"/>
@@ -102,7 +102,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true" width = "49%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default" width = "49%"/>
-</picture>
+</picture> -->
 
 <h2> Contribution history</h2>
 <div align="center">
@@ -116,7 +116,7 @@
 </div> 
 
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient#gh-light-mode-only" alt="Footer" width = "100%"/>
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient#gh-light-mode-only" alt="Footer" width = "100%"/>
 </a>
 
  

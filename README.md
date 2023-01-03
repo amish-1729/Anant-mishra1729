@@ -33,7 +33,8 @@
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="static/nightlife.gif" align="right" width="50%" >
-  <img src="https://media1.giphy.com/media/mChiNhFgpudAQ3ppsL/giphy.gif?cid=ecf05e47oxryfenu2tpbqtckhsaxwhfsawgdq687iff5720q&rid=giphy.gif" width="35%" align = "right"/>
+<!--   <img src="https://media1.giphy.com/media/mChiNhFgpudAQ3ppsL/giphy.gif?cid=ecf05e47oxryfenu2tpbqtckhsaxwhfsawgdq687iff5720q&rid=giphy.gif" width="35%" align = "right"/> -->
+    <img src = "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="50%" align = "right" />
 </picture>
   <u>
     <li>:telescope:&ensp;I'm working on <b>Finger Spell</b>, an ISL interpreter. </li>
@@ -52,7 +53,7 @@
   
   
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,r,matlab,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=light&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,r,matlab,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=light&perline=7" />
 </a>
 
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">

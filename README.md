@@ -114,7 +114,7 @@
     <img alt = "Contribution history" src="profile-3d-contrib/profile-season-animate.svg">
   </picture>
   <div align="center">
-    <h3> From my diary...</h3>
+    <h3> ...&ensp;From my diary&ensp;...</h3>
     <i>&nbsp;"Every night in the light of stars, what we see is mostly the obliterated part of this universe..."</i>
 </div> 
 

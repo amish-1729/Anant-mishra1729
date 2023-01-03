@@ -28,13 +28,12 @@
 <h1> Let's start with an intro... <img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="60" />
 </h1>
 
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HyunCafe/HyunCafe/blob/main/assests/nightlife.gif?raw=true" align="right" width="47%" >
-  <img src="https://media1.giphy.com/media/mChiNhFgpudAQ3ppsL/giphy.gif?cid=ecf05e47oxryfenu2tpbqtckhsaxwhfsawgdq687iff5720q&rid=giphy.gif" width="35%" align = "right"/>
-</picture>
-
 <div align="left">
 
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HyunCafe/HyunCafe/blob/main/assests/nightlife.gif?raw=true" align="right" width="50%" >
+  <img src="https://media1.giphy.com/media/mChiNhFgpudAQ3ppsL/giphy.gif?cid=ecf05e47oxryfenu2tpbqtckhsaxwhfsawgdq687iff5720q&rid=giphy.gif" width="35%" align = "right"/>
+</picture>
   <u>
     <li>:telescope:&ensp;I'm working on <b>Finger Spell</b>, an ISL interpreter. </li>
     <li>:seedling:&ensp; <b>Deep reinforcement learning</b></li>

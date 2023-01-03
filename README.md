@@ -32,7 +32,7 @@
 <div align="left">
 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="static/nightlife.gif" align="right" width="55%" >
+  <source media="(prefers-color-scheme: dark)" srcset="static/nightlife.gif" align="right" width="52%" >
   <img src="https://media1.giphy.com/media/mChiNhFgpudAQ3ppsL/giphy.gif?cid=ecf05e47oxryfenu2tpbqtckhsaxwhfsawgdq687iff5720q&rid=giphy.gif" width="35%" align = "right"/>
 </picture>
   <u>

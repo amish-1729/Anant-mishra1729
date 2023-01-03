@@ -110,7 +110,7 @@
 <h2> Contribution history</h2>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
     <img alt = "Contribution history" src="profile-3d-contrib/profile-season-animate.svg">
   </picture>
   <div align="center">

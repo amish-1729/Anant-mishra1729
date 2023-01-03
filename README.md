@@ -27,11 +27,12 @@
 
 <h1> Let's start with an intro... <img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="60" />
 </h1>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/ad/83/87/ad8387c6e38c4dd2cb3500800141f69e.gif" align="right" width="35%" >
-  <img src="https://media1.giphy.com/media/mChiNhFgpudAQ3ppsL/giphy.gif?cid=ecf05e47oxryfenu2tpbqtckhsaxwhfsawgdq687iff5720q&rid=giphy.gif" width="35%" align = "right"/>
-</picture>
+
 <div align="left">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HyunCafe/HyunCafe/blob/main/assests/nightlife.gif?raw=true" align="right" width="42%" >
+  <img src="https://media1.giphy.com/media/mChiNhFgpudAQ3ppsL/giphy.gif?cid=ecf05e47oxryfenu2tpbqtckhsaxwhfsawgdq687iff5720q&rid=giphy.gif" width="42%" align = "right"/>
+</picture>
   <u>
     <li>:telescope:&ensp;I'm working on <b>Finger Spell</b>, an ISL interpreter. </li>
     <li>:seedling:&ensp; <b>Deep reinforcement learning</b></li>
@@ -58,7 +59,7 @@
   
 
 <h2>Profile summary</h2>
-<table>
+<!-- <table>
   <tbody>
     <tr>
       <td rowspan="3">
@@ -91,9 +92,9 @@
         </picture>
     </td>
   </tbody>
-</table>
+</table> -->
   
-<!-- <picture>
+<picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" width = "49%"/>
   <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width = "49%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true" width = "49%"/>
@@ -102,7 +103,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=tokyonight&hide_border=true" width = "49%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default" width = "49%"/>
-</picture> -->
+</picture>
 
 <h2> Contribution history</h2>
 <div align="center">

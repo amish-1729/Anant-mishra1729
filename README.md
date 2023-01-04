@@ -33,14 +33,14 @@
 <div align="left">
 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/d14995c11b9f3b9c94347e3b5d790d24/babbd570ca3d6c19-f3/s500x750/5fd44a8447f25e68a4da3740b06c65adc597bcea.gif" align="right" width="35%" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/d14995c11b9f3b9c94347e3b5d790d24/babbd570ca3d6c19-f3/s500x750/5fd44a8447f25e68a4da3740b06c65adc597bcea.gif" align="right" width="33%" >
 <!--   <img src="https://media1.giphy.com/media/mChiNhFgpudAQ3ppsL/giphy.gif?cid=ecf05e47oxryfenu2tpbqtckhsaxwhfsawgdq687iff5720q&rid=giphy.gif" width="35%" align = "right"/> -->
     <img src = "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="50%" align = "right" />
 </picture>
   <u>
     <li>:telescope:&ensp;I'm working on <b>Finger Spell</b>, an ISL interpreter. </li>
     <li>:seedling:&ensp; <b>Deep reinforcement learning</b></li>
-    <li>🤝&ensp;Collaborate on any pro-bono data science project.</li>
+    <li>🤝&ensp;Looking to collaborate on any pro-bono data science project.</li>
     <li>:heart:&ensp;Stargazing, Chess and <b><a href="https://github.com/Anant-mishra1729/Village-Linux-rice">Ricing Linux</a>
       </b>
     </li>
@@ -58,7 +58,7 @@
 </a>
 
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,r,matlab,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,r,matlab,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=dark&perline=9" />
 </a>  
   
 

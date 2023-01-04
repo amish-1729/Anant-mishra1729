@@ -99,13 +99,13 @@
 </table> -->
   
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=algolia&hide_border=true" media="(prefers-color-scheme: dark)" width = "49%"/>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=blueberry&hide_border=true&bg_color=1a1d26" media="(prefers-color-scheme: dark)" width = "49%"/>
   <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width = "49%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true" width = "49%"/>
 </picture>
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=algolia&hide_border=true" width = "49%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=blueberry&hide_border=true&background=1a1d26" width = "49%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default" width = "49%"/>
 </picture>
 

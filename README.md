@@ -3,8 +3,8 @@
 </a>
 
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only" width = "30">
-<!--   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Anant%20Mishra&fontAlign=40&fontAlignY=30&color=0:00c7ad,70:6e97fd,100:5d52ac&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-dark-mode-only" alt="Header" width = "100%"/> -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Anant%20Mishra&fontAlign=40&fontAlignY=30&color=0:49a09d,100:5f2c82&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-dark-mode-only" alt="Header" width = "100%"/>
+<!--   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Anant%20Mishra&fontAlign=40&fontAlignY=30&color=0:49a09d,100:5f2c82&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-dark-mode-only" alt="Header" width = "100%"/> -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Anant%20Mishra&fontAlign=40&fontAlignY=30&color=0:00c7ad,70:6e97fd,100:5d52ac&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-dark-mode-only" alt="Header" width = "100%"/>
 </a>
 
 
@@ -112,7 +112,7 @@
 <h2> Contribution history</h2>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
     <img alt = "Contribution history" src="profile-3d-contrib/profile-season-animate.svg">
   </picture>
   <div align="center">
@@ -126,5 +126,5 @@
 
  
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:49a09d,100:5f2c82" alt="Header" width = "100%"/>
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,70:6e97fd,100:5d52ac" alt="Header" width = "100%"/>
 </a>

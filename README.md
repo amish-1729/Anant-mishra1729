@@ -58,7 +58,7 @@
 </a>
 
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,r,matlab,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,r,matlab,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=dark&perline=8" />
 </a>  
   
 

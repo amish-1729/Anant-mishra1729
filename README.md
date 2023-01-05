@@ -109,7 +109,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default" width = "49%"/>
 </picture>
 
-<img src = "https://github-readme-activity-graph.cyclic.app/graph?username=Anant-mishra1729&theme=tokyo-night&hide_border=true&hide_title=true&radius=10" width = "98%"/>
+<a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
+  <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=Anant-mishra1729&theme=minimal&hide_border=true&hide_title=true&radius=10" width = "98%"/>
+</a>
+
+<a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
+  <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=Anant-mishra1729&theme=tokyo-night&hide_border=true&hide_title=true&radius=10" width = "98%"/>
+</a>  
 
 
 <h2> Contribution history</h2>

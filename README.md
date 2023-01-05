@@ -109,7 +109,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default" width = "49%"/>
 </picture>
 
-<img src = "https://github-readme-activity-graph.cyclic.app/graph?username=Anant-mishra1729&theme=tokyo-night&hide_border=true&hide_title=true" />
+<img src = "https://github-readme-activity-graph.cyclic.app/graph?username=Anant-mishra1729&theme=tokyo-night&hide_border=true&hide_title=true&radius=10" height = "348"/>
 
 
 <h2> Contribution history</h2>

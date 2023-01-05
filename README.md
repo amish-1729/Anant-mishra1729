@@ -60,7 +60,7 @@
 <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,r,matlab,cpp,flutter,flask,nodejs,react,js,html,css,mysql,mongodb,linux,bash,vim,git&theme=dark&perline=8" />
 </a>  
-  
+
 
 <h2>Profile summary</h2>
 <!-- <table>
@@ -108,6 +108,9 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=blueberry&hide_border=true&background=1a1d26" width = "49%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default" width = "49%"/>
 </picture>
+
+<img src = "https://github-readme-activity-graph.cyclic.app/graph?username=Anant-mishra1729&theme=tokyo-night&hide_border=true&hide_title=true" />
+
 
 <h2> Contribution history</h2>
 <div align="center">

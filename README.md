@@ -117,7 +117,7 @@
   <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=Anant-mishra1729&theme=tokyo-night&hide_border=true&hide_title=true&radius=10" width = "98%"/>
 </a>   -->
 
-<h2>Wakatime stats ...</h2>
+<h2>Wakatime this week ...</h2>
 <!--START_SECTION:waka-->
 
 ```text

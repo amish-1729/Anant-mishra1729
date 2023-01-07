@@ -81,10 +81,16 @@
     <tr>
       <td>
         <div align  = "center">
-        <picture>
+          <a href="https://github.com/settings/appearance#gh-light-mode-only">
+            <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&layout=compact&langs_count=6&hide=jupyter%20notebook,css" width = "75%"/>
+          </a>
+          <a href="https://github.com/settings/appearance#gh-dark-mode-only">
+            <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&layout=compact&theme=tokyonight&langs_count=6&hide=jupyter%20notebook,css" width = "75%"/>
+          </a>
+<!--         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&layout=compact&theme=tokyonight&langs_count=6&hide=jupyter%20notebook,css">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-mishra1729&layout=compact&langs_count=6&hide=jupyter%20notebook,css"/>
-        </picture>
+        </picture> -->
       </div>
       </td>
     </tr>

@@ -118,16 +118,8 @@
 </a>   -->
 
 <h2>Wakatime stats ...</h2>
+
 <!--START_SECTION:waka-->
-
-```text
-From: 04 January 2023 - To: 05 January 2023
-
-Total Time: 0 secs
-
-C++   0 secs          ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫   100.00 %
-```
-
 <!--END_SECTION:waka-->
 
 

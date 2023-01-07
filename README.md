@@ -67,7 +67,7 @@
   <tbody>
     <tr>
       <td rowspan="3">
-        <img src="https://metrics.lecoq.io/Anant-mishra1729?template=classic&isocalendar=1&achievements=1&leetcode=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&leetcode=false&leetcode.user=amishra1729&leetcode.sections=solved%2Cskills&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FCalcutta" alt = "Profile Summary"/>
+        <img src="https://metrics.lecoq.io/Anant-mishra1729?template=classic&base.metadata=0&achievements=1&leetcode=1&stackoverflow=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&stackoverflow=false&stackoverflow.user=16945062&stackoverflow.sections=answers-top&stackoverflow.limit=1&stackoverflow.lines=4&stackoverflow.lines.snippet=2&leetcode=false&leetcode.user=amishra1729&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FCalcutta" alt = "Profile Summary"/>
         <br></br>
       </td>
       <td>

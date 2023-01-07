@@ -63,7 +63,7 @@
 
 
 <h2>Profile summary</h2>
-<!-- <table>
+<table>
   <tbody>
     <tr>
       <td rowspan="3">
@@ -96,9 +96,9 @@
         </picture>
     </td>
   </tbody>
-</table> -->
+</table>
   
-<picture>
+<!-- <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=blueberry&hide_border=true&bg_color=1a1d26" media="(prefers-color-scheme: dark)" width = "49%"/>
   <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width = "49%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true" width = "49%"/>
@@ -107,7 +107,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=blueberry&hide_border=true&background=1a1d26" width = "49%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default" width = "49%"/>
-</picture>
+</picture> -->
 <!-- 
 <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
   <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=Anant-mishra1729&theme=minimal&hide_border=true&hide_title=true&radius=10" width = "98%"/>
